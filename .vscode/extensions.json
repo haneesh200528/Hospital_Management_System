@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "formulahendry.code-runner",
+        "christian-kohler.path-intellisense",
+        "vscjava.vscode-maven"
+    ]
+}
